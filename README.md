@@ -71,11 +71,11 @@ I'm a software developer working on a Python project. Can you explain how to imp
 - Context: "I'm a Engineering Professor"
 - Specific Information: "working on making MCQs for class test"
 - Intent/Goal: "Can you make MCQs on the basis of syllabus given in <>"
-- Response Format (if needed): Write it into tabular form.
+- Response Format (if needed): Write it into json form.
 
 Perfect Prompt: 
 ```
-I'm a Engineering Professor working on making MCQs for class test.Can you make MCQs on the basis of syllabus given in <>.Write it into tabular form.
+I'm a Engineering Professor working on making MCQs for class test.Can you make MCQs on the basis of syllabus given in <>.Write it into json form.
 ```
 
 ## AIPRM (Artificial Intelligence-Powered Response Manager)
