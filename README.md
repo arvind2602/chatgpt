@@ -45,7 +45,8 @@ If ChatGPT's response doesn't fully address your query or if you need more infor
 ## 6. Experiment with Different Phrasings:
 If you're not getting the desired response, try rephrasing your question. Different wording may lead to a better understanding of your intent.
 
-## 7. Prompt for Fact-Checking: When seeking reliable information, you can request ChatGPT to provide sources or fact-check information. 
+## 7. Prompt for Fact-Checking: 
+When seeking reliable information, you can request ChatGPT to provide sources or fact-check information. 
 
 Ask For : 
 ```
