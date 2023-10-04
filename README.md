@@ -90,4 +90,8 @@ Please act as a professor and create 10 multiple-choice questions (MCQs) with va
 #### Example 2 :
 Prompt Template:
 ```
+Create a PowerPoint presentation content on the topic  given below. Your presentation should consist of 10 slides . Each slide should have a concise title and bullet points summarizing the main ideas. Additionally, provide speaker notes for each slide explaining the content in more detail. Ensure that your presentation is informative and engaging.[TARGETLANGUAGE]. The topic is 
+
+
+[PROMPT]
 ```
