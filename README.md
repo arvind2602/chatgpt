@@ -77,4 +77,17 @@ Perfect Prompt:
 I'm a Engineering Professor working on making MCQs for class test.Can you make MCQs on the basis of syllabus given in <>.Write it into tabular form.
 ```
 
-## AIPRM ()
+## AIPRM (Artificial Intelligence-Powered Response Manager)
+### Generating our Own Prompt :
+#### Example 1 :
+Prompt Template:
+```
+Please act as a professor and create 10 multiple-choice questions (MCQs) with varying levels of difficulty based on the provided syllabus. The syllabus covers topics in advanced Engineering.  Ensure that the questions are specific, well-structured, and assess various aspects of the subject matter. Please provide four answer choices for each question, with only one correct answer. Additionally, accompany each question with a brief explanation or context to help students understand the concept being tested.[TARGETLANGUAGE]. The provided syllabus is :
+
+[PROMPT]
+```
+
+#### Example 2 :
+Prompt Template:
+```
+```
