@@ -56,4 +56,25 @@ Can you fact-check this statement: The tallest mountain in the world is Mount Ev
 ### [Context] + [Specific Information] + [Intent/Goal] + [Response Format (if needed)] = Perfect Prompt
 
 ### Example 1 :
+- Context: "I'm a software developer"
+- Specific Information: "working on a Python project"
+- Intent/Goal: "Can you explain how to implement exception handling in Python?"
+- Response Format (if needed): Write it in a simple paragraph or list.
 
+Perfect Prompt: 
+```
+I'm a software developer working on a Python project. Can you explain how to implement exception handling in Python? Write it in a simple paragraph or list.
+```
+
+### Example 2 :
+- Context: "I'm a Engineering Professor"
+- Specific Information: "working on making MCQs for class test"
+- Intent/Goal: "Can you make MCQs on the basis of syllabus given in <>"
+- Response Format (if needed): Write it into tabular form.
+
+Perfect Prompt: 
+```
+I'm a Engineering Professor working on making MCQs for class test.Can you make MCQs on the basis of syllabus given in <>.Write it into tabular form.
+```
+
+## AIPRM ()
