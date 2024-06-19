@@ -75,7 +75,7 @@ I'm a software developer working on a Python project. Can you explain how to imp
 
 Perfect Prompt: 
 ```
-I'm a Engineering Professor working on making MCQs for class test.Can you make MCQs on the basis of syllabus given in <>.Write it into json form.
+I'm an Engineering Professor working on making MCQs based on Bloom Taxonomy for class tests. Can you make MCQs based on the syllabus given in <>. Write it into JSON form. 
 ```
 
 ## AIPRM (Artificial Intelligence-Powered Response Manager)
