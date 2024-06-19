@@ -1,4 +1,4 @@
-# FDP-TCET
+# FDP-St John's College of Engineering and Management
 ## 1. BE Specfic :
 If you ask a vague question, you may get a vague answer. The more details you provide, the better the model can give you what you're looking for
 
@@ -9,7 +9,7 @@ Tell me about all dog breeds that exist ?
 
 Ask :
 ```
-What are the different breeds of dog for small aparment living ?
+What are the different breeds of dog for small apartment living ?
 ```
 
 ## 2. State Your Intent :
